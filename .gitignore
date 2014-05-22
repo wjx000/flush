@@ -19,3 +19,11 @@
 *.exe
 *.out
 *.app
+
+.DS_Store
+node_modules
+npm-debug.log
+*.swp
+*.swo
+.sw*
+.idea/*
